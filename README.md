@@ -1,2 +1,2 @@
-# guessnumber.github.io
+# 猜数字
 十分好玩的猜数字游戏！
